@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there my name is Ishmel Dramani👋
 
-## This is an introduction to me
-**ishmeldrammz/Ishmeldrammz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## An introduction to a passionate software engineering student 
+* I am a passionate and resilient software engineering student with a strong urge to learn more information. My life started of in Bermondsey in a very cultural diverse neighbourhood deep in the heart of London. This is where i spent a large portion of my childhood. A lot of my early life consisted of playing outside, studying in school and bonding with family members. Later on i moved to Woolwich in south east London followed by a **4  year** trip to Ghana where i learnt my roots and differences between cultures. My love for computers and technology came soon after that as i started to wonder how the games i loved so much were made with such precision and fluidity.*
+
 
 Here are some ideas to get you started:
 
