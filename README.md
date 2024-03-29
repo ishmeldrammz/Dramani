@@ -4,7 +4,7 @@
 *I am a passionate and resilient software engineering student with a strong urge to learn more information. My life started of in Bermondsey in a very cultural diverse neighbourhood deep in the heart of London. This is where i spent a large portion of my childhood. A lot of my early life consisted of playing outside, studying in school and bonding with family members. Later on i moved to Woolwich in south east London followed by a **4  year** trip to Ghana where i learnt my roots and differences between cultures. My love for computers and technology came soon after that as i started to wonder how the games i loved so much were made with such precision and fluidity.*
 
 ## My education
-# Secondary school
+### Secondary school
 *I spent my secondary school years studying at Harris Academy Greenwich, this was a great experience for me and its firm attidute towards education led to me attaining vBcs Level 2 in ECDL and 9 A-C's in my GCSEs.*
 These were:
 * An A in English Literature
@@ -17,7 +17,7 @@ These were:
 * A C in Physics
 * A C in Resistant Materials
 
-# College life
+### College life
 *I went to Christ The King college in Lewisham to for a BTEC in engineering but shortly after realised that mechinal engineering was not the path I wanted to go down, by this time it was too late so i stayed on the course and continued studying whilst working at Whsmith on the weekends. I am grateful for the college as i met a lot of good people and formed strong bonds during my time there.*
 
 ## Work life
